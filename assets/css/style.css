@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+.center{
+    
+text-align: center;
+    }
+.center-form{
+ margin-left: auto;
+    margin-right: auto;
+    width: 8em
+
+}
+.search{
+  float: right;
+}
+
+.bg-img {
+  /* The image used */
+  background-image: url("../images/fe.jpg");
+  height: 200px;
+  margin-top: 70px;
+  margin-bottom: 25px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* Needed to position the navbar */
+  position: relative;
+}
+/* Position the navbar container inside the image */
+.container {
+  position: absolute;
+  margin: 20px;
+  width: auto;
+}
+
+/* The navbar */
+.topnav {
+  overflow: hidden;
+  background-color: #5dbcd2;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.content{
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+
+.carousel{
+    margin-top: 100px;
+    margin-bottom: 150px;
+    margin-left: 100px;
+    height: 150px;
+  width: 80%;
+  text-align: center;
+}
+
+.map-container-5 iframe{
+margin-top: 100px;
+    margin-bottom: 150px;
+    margin-right: 100px;
+    height: 250px;
+  width: 80%;
+  padding-bottom: 10px;
+}
+
+footer{
+    background-color: #5dbcd2;
+    height: 100px;
+}
+
+button {
+    background-color: #5dbcd2;
+}
+
+.btn btn-primary btn-lg{
+    background-color: #5dbcd2;
+
+}
