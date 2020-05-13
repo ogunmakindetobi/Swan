@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+}
+
+
 .center{ max-width: 100%;
 text-align: center;
 margin-top: 50px;
@@ -78,13 +86,15 @@ margin-top: 50px;
   text-align: center;
 }
 
-.map-container-5 iframe{
-margin-top: 100px;
-    margin-bottom: 150px;
-    margin-right: 100px;
-    height: 250px;
-  width: 80%;
-  padding-bottom: 10px;
+.map-container-google-8{
+    width: 500px;
+}
+
+
+.col-lg-6{
+    margin-top: auto;
+    text-align: center;
+    width: 80px;
 }
 
 footer{
