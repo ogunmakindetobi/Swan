@@ -1,17 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
-.center{
-    
+.center{ max-width: 100%;
 text-align: center;
+margin-top: 50px;
+}
+
+.p{margin-top: 25px;}
+
+.img-container {
+    max-width: 100%;
     }
+
 .center-form{
  margin-left: auto;
     margin-right: auto;
-    width: 8em
+    width: 8em;
 
-}
-.search{
-  float: right;
 }
 
 .bg-img {
@@ -96,3 +100,43 @@ button {
     background-color: #5dbcd2;
 
 }
+
+
+* {box-sizing: border-box}
+
+/* Set height of body and the document to 100% */
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
+
+/* Style tab links */
+.tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  color: white;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+#Home {background-color: red;}
+#News {background-color: green;}
+#Contact {background-color: blue;}
+#About {background-color: orange;}
