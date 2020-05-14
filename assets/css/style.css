@@ -81,9 +81,7 @@ position: absolute;
 .carousel{
     margin-top: 100px;
     margin-bottom: 150px;
-    margin-left: 100px;
     height: 150px;
-  width: 80%;
   text-align: center;
 }
 
@@ -95,7 +93,7 @@ position: absolute;
 .col-lg-6{
     margin-top: auto;
     text-align: center;
-    width: 80px;
+    width: 100%;
 }
 
 footer{
