@@ -30,7 +30,7 @@ margin-top: 50px;
   /* The image used */
   background-image: url("../images/fe.jpg");
   height: 200px;
-  margin-top: 70px;
+  margin-top: 25px;
   margin-bottom: 25px;
   margin-left: 20px;
   margin-right: 20px;
@@ -59,7 +59,7 @@ position: absolute;
 /* Navbar links */
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #25282D;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
