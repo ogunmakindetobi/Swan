@@ -1,9 +1,9 @@
 UX
-* Project Goals
-(1)Base on restaurant website which enable the customers to have a easy booking of tables for a special event.
-(2)Its make it easier for the customers to have a opinion on kind of food is serve at the restaurant with each price.
-(3)Project enable customers to know the location of the restaurant.
-(4)Project enable customers to call or contact the restaurant if there are more question to ask.
+* Project Goals. 
+1. Base on restaurant website which enable the customers to have a easy booking of tables for a special event.  
+2. Its make it easier for the customers to have a opinion on kind of food is serve at the restaurant with each price.
+3. Project enable customers to know the location of the restaurant.
+4. Project enable customers to call or contact the restaurant if there are more question to ask.
 
  This project is interesting and give food details of what the restaurant look like in terms of images display and what service can be provide there.
 
