@@ -1,5 +1,5 @@
-## UX
-* Project Goals. 
+# User Experience (UX)
+## User stories. 
 1. Base on restaurant website which enable the customers to have a easy booking of tables for a special event.  
 2. Its make it easier for the customers to have a opinion on kind of food is serve at the restaurant with each price.
 3. Project enable customers to know the location of the restaurant.
@@ -7,11 +7,11 @@
 
  This project is interesting and give food details of what the restaurant look like in terms of images display and what service can be provide there.
 
-## User
+# User
 1. As a traveller i visiting another country or city and looking for a place to eat,i will like to know the best restaurant that will provide good service  and food for me.
 2.  Everyone like to eat different some like there food spicy and some like its oliy,so its will be better to go on the menu to look if the restaurant have your favorite.
 
-User Requirentment
+## User Requirentment
 * Visible images to get the food menu
 * Navigation should make the website easier.
 * Booking form will make its easier users to book for time and date and its works.
@@ -68,7 +68,8 @@ In the  section is an explanation about the idea about this website.
 
 1. Html
 2. Css 
-3. Java
+3. Javascript
+4. emailjs
 
 
 ## Tools & Libraries
@@ -86,7 +87,10 @@ I asked some of my friends and family members to test my project. So would get s
 
 * Test user 1:
 
-1.  The text of the "navbar" section is a bit too long, and it conflicts with the simple feel the rest of the website tries to give. Solution: I reduce the margin the "Navbar" so its fit in when view on smaller screen.
+1.  The text of the "navbar" section is a bit too long, and it conflicts with the simple feel the rest of the website tries to give. Solution: I reduce the margin the "Navbar" so its fit in when view on smaller screen.  
+
+## footer
+Footer have some icon on it but its doesnt function.
 
 
 ## Deployment 🚀
