@@ -6,7 +6,7 @@
         * [Business goals](#business-goals)
         * [Customer goals](#customer-goals)
     * [User Stories](#user-stories)
-        * [The Tradesman](#the-tradesman)
+        * [Resturant](#Resturant)
         * [The potential customer](#the-potential-customer)
          * [The UX designer](#the-ux-designer)
     * [Minimum Viable Product](#minimum-viable-product)
@@ -130,6 +130,9 @@ I asked some of my friends and family members to test my project. So would get s
 ## footer
 Footer have some icon on it but its doesnt function.
 
+#### I received advice and encouragement from
+* Eventyret_mentor (via slack channels)
+* Tutor Support (CI online webchat)
 
 ## Deployment 🚀
 
