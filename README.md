@@ -69,28 +69,34 @@ In the  section is an explanation about the idea about this website.
 1. Html
 2. Css 
 3. Javascript
-4. emailjs
 
 
 ## Tools & Libraries
 For design:
-1. bootsprap
-2. w3schools
-3. Google fonts
-4. jQuery
-5. emailjs
+1. https://getbootstrap.com/
+2. https://www.w3schools.com/
+3. https://fonts.google.com/
+4. https://jquery.com/
+5. https://www.emailjs.com/
 
 
 ## Testing
 Testing by friends and family
 I asked some of my friends and family members to test my project. So would get some idea's of what i needed tot fix or they would see something I didn't even think about.
 
-* Test user 1:
-
-1.  The text of the "navbar" section is a bit too long, and it conflicts with the simple feel the rest of the website tries to give. Solution: I reduce the margin the "Navbar" so its fit in when view on smaller screen.  
+* Test user:
+booking form is active.
+navbar is active leads to other page.
+contact form is not active and i have try to debug and its seems not working.
+images gird move every seconds.
 
 ## footer
-Footer have some icon on it but its doesnt function.
+Footer this list icons.
+* Facebook
+* twitter
+* Instagram
+* google
+2020 Copy right with email address (contact@mrswan.com)
 
 
 ## Deployment 🚀
