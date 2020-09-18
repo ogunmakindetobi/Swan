@@ -73,11 +73,11 @@ In the  section is an explanation about the idea about this website.
 
 ## Tools & Libraries
 For design:
-1. https://getbootstrap.com/
-2. https://www.w3schools.com/
-3. https://fonts.google.com/
-4. https://jquery.com/
-5. https://www.emailjs.com/
+1. (https://getbootstrap.com/)
+2. (https://www.w3schools.com/)
+3. (https://fonts.google.com/)
+4. (https://jquery.com/)
+5. (https://www.emailjs.com/)
 
 
 ## Testing
