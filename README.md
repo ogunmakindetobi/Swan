@@ -1,3 +1,38 @@
+## Table of Content
+
+1. [UX](#ux)
+    * [Goals](#goals)
+        * [Mr Swan goal](#Mr-Swan-goal)
+        * [Business goals](#business-goals)
+        * [Customer goals](#customer-goals)
+    * [User Stories](#user-stories)
+        * [Resturant](#Resturant)
+        * [The potential customer](#the-potential-customer)
+         * [The UX designer](#the-ux-designer)
+    * [Minimum Viable Product](#minimum-viable-product)
+    * [Design](#design)
+        * [Colors](#colors)
+        * [Font](#font)
+    * [Wireframes](#wireframes)
+2. [Features](#features)
+    * [Existing Features](#existing-features)
+        * [Elements seen on every page](#elements-seen-on-every-page)
+        * [Other elements](#other-elements)
+    * [Features left to implement](#features-left-to-implement)
+    * [Bugs and Fixes for Future Releases After Testing](#bugs-and-fixes-for-future-releases-after-testing)
+3. [Technologies Used](#technologies-used)
+4. [Testing](#testing)
+5. [Deployment](#deployment)
+    * [Hosting on GitHub Pages](#hosting-on-github-pages)
+    * [How to run this project locally](#how-to-run-this-project-locally)
+6. [Credits](#credits)
+    * [Media](#media)
+    * [Acknowledgements](#acknowledgements)
+        * [Examples and Tutorials and Samples](#examples-and-tutorials-and-samples)
+        * [Pages used for information](#pages-used-for-information)
+        * [I received advice and encouragement from](#i-received-advice-and-encouragement-from)
+7. [Disclaimer](#disclaimer)
+
 # User Experience (UX)
 ## User stories. 
 1. Base on restaurant website which enable the customers to have a easy booking of tables for a special event.  
@@ -9,7 +44,10 @@
 
 # User
 1. As a traveller i visiting another country or city and looking for a place to eat,i will like to know the best restaurant that will provide good service  and food for me.
-2.  Everyone like to eat different some like there food spicy and some like its oliy,so its will be better to go on the menu to look if the restaurant have your favorite.
+2. Everyone like to try different type food which they can easly look on the menu page.
+3. I want that the users/potential customers to remember my brand and website so that they become repeat customers.
+4. i want my customers to be able to book for a table for different events.
+5. i want my customer to easly locate the restaurant with the address and map.
 
 ## User Requirentment
 * Visible images to get the food menu
@@ -98,6 +136,9 @@ Footer this list icons.
 * google
 2020 Copy right with email address (contact@mrswan.com)
 
+#### I received advice and encouragement from
+* Eventyret_mentor (via slack channels)
+* Tutor Support (CI online webchat)
 
 ## Deployment 🚀
 
