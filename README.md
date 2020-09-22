@@ -24,7 +24,6 @@
     * [Bugs and Fixes for Future Releases After Testing](#bugs-and-fixes-for-future-releases-after-testing)
 3. [Technologies Used](#technologies-used)
 4. [Testing](#testing)
-5. [Deployment](#deployment)
     * [Hosting on GitHub Pages](#hosting-on-github-pages)
     * [How to run this project locally](#how-to-run-this-project-locally)
 6. [Credits](#credits)
@@ -34,6 +33,7 @@
         * [Pages used for information](#pages-used-for-information)
         * [I received advice and encouragement from](#i-received-advice-and-encouragement-from)
 7. [Disclaimer](#disclaimer)
+* [Deployment](#deployment)
 
 # User Experience (UX)
 ## User stories. 
@@ -95,7 +95,7 @@ In the  section is an explanation about the idea about this website.
 * i found the image of menu on google and its describe with i want so that the users will find it easier to choose the meal.  
 
 ## Contact
- contact form is viewable but not active.
+* contact form is viewable but not active.
 
 ## Design
   Colour Scheme. 
@@ -108,7 +108,7 @@ In the  section is an explanation about the idea about this website.
  * Contact form
  * Booking form
  * map
-# Bugs and Fixes for Future Releases After Testing
+### Bugs and Fixes for Future Releases After Testing
 [debug) (https://www.freeformatter.com/html-validator.html) i use to debug my html and fix the error codes
  (validator.w3.org) i use this to fix my project
 
@@ -135,19 +135,23 @@ Testing by friends and family
 I asked some of my friends and family members to test my project. So would get some idea's of what i needed tot fix or they would see something I didn't even think about.
 
 * Test user:
-booking form is active.
-navbar is active leads to other page.
-contact form is not active and i have try to debug and its seems not working.
-images gird move every seconds.
+1. booking form is active.
+2. navbar is active leads to other page.
+3. contact form is not active and i have try to debug and its seems not working.
+4. images gird move every seconds.
 
-## footer
+## Footer
 Footer this list icons.
 * Facebook
 * twitter
 * Instagram
 * google
 2020 Copy right with email address (contact@mrswan.com)
-# Acknowledgements
+# Credits
+Code institute
+* images
+    Goggle
+## Acknowledgements
 #### I received advice and encouragement from
 * Eventyret_mentor (via slack channels)
 * Tutor Support (CI online webchat)
