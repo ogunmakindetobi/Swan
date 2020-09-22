@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="assets/css/style.css" type="text/css">    
-<script type="text/javascript" src="assets/js/contact.html"></script>
+<script src="assets/js/contact.html"></script>
 <script type="text/javascript"
         src="https://cdn.jsdelivr.net/npm/emailjs-com@2.4.1/dist/email.min.js">
 </script>
@@ -61,10 +61,11 @@
 <p>Pichet is a classic take on a modern bistro. Combining both french&influence and modern Irish cuisine, it has been on the receiving end of numerous awards and Bib Gourmand’s since it’s inception in 2009.</p>
 <p>Our menus are created with innovation and seasonality using traditional flavours to create unique new dishes. We use top-quality ingredients from local Irish suppliers that we know and trust. The dishes are locally inspired but with a French twist</p>
 </div>
-<div class="center-form" >
+<div class="center-form">
 <button class="btn btn-primary" type="button"  data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" style="background-color:black; margin-top:50px;">
     Book Now
     </button>
+</div>
 <form onsubmit="return sendMail(this);">
 <div class="collapse" id="collapseExample">
   <label for="guestname" class="field-label">Enter Your Name</label>
@@ -72,7 +73,6 @@
     <input type="text" name="name" id="guestname" class="gui-input" required="" value="" oninput="fetchFitHubInformation()">
     <span class="field-icon"><i class="fa fa-user"></i></span>  
   </label>
-
 <div class="frm-row">
   <div class="section colm colm6">
     <label for="guestemail" class="field-label">Email Address</label>
@@ -81,6 +81,7 @@
       <span class="field-icon"><i class="fa fa-envelope"></i></span>  
     </label>
   </div>
+
    
   <div class="section colm colm6">
     <label for="guestelephone" class="field-label">Mobile</label>
@@ -125,8 +126,6 @@
     </div>
 
 </div>
-
-
 </div>
 </div>
 
@@ -140,10 +139,9 @@
 </div>
 
   </div>
-
     </div>
-</section>
 
+</section>
 
 <!-- Footer -->
 <footer class="page-footer font-small special-color-dark pt-4">
