@@ -1,5 +1,4 @@
-![Screen Shot 2020-09-22 at 02 49 23](https://user-images.githubusercontent.com/57045071/93839333-8b3af180-fc84-11ea-8a22-1528fa830a08.png)
-
+[My image](images/readme.png)
 
 ## Table of Content
 
@@ -42,6 +41,8 @@
 2. Its make it easier for the customers to have a opinion on kind of food is serve at the restaurant with each price.
 3. Project enable customers to know the location of the restaurant.
 4. Project enable customers to call or contact the restaurant if there are more question to ask.
+5. project enable customer to choose the day and time they want to come.
+6. project allow customer to have view on what the restaurant look like.
 
  This project is interesting and give food details of what the restaurant look like in terms of images display and what service can be provide there.
 
@@ -57,6 +58,8 @@
 * Navigation should make the website easier.
 * Booking form will make its easier users to book for time and date and its works.
 * Content writtings are display and visible.
+* map for the location
+* restaurant contact details.
 
 ## Wireframes
 * i build this site on bootstrap,jquery.com,i started making it visible on desktop version and which translated to mobile and tablet version of same design and on other form of screen.
@@ -69,13 +72,13 @@
 ## Icons
 
 * I found a visible icons to use and big to make the website look nice 
-* I used the icons from the (fontawesome) from materialize. 
+* I used the icons from the (fontawesome) and bootstrap. 
 * The icons are easy to understand and they provide a visual support to the input fields.
 
 
 ## Styling
 
-1. The navbar is at left on top of the screen and appears full on small screens. The navbar on large screen is fully viewable and small screens with
+1. The navbar  is fully viewable and small screens and large screens
 2. The Navbar is styled  the text colour black colours. 
 3. The navbar has visible touch like white when click on it.
 4. The text has some extra shadow so it will pop out of the orange navbar. 
@@ -91,6 +94,9 @@ In the  section is an explanation about the idea about this website.
 ## Menu 
 * i found the image of menu on google and its describe with i want so that the users will find it easier to choose the meal.  
 
+## Contact
+ contact form is viewable but not active.
+
 ## Design
   Colour Scheme. 
   The two main colours used are Code Swan  white, blue
@@ -102,6 +108,9 @@ In the  section is an explanation about the idea about this website.
  * Contact form
  * Booking form
  * map
+# Bugs and Fixes for Future Releases After Testing
+[debug) (https://www.freeformatter.com/html-validator.html) i use to debug my html and fix the error codes
+ (validator.w3.org) i use this to fix my project
 
 ## Technologies used. 
 
