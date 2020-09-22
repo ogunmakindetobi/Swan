@@ -1,4 +1,4 @@
-<img src="documentation/deployment-screen-shots/readme.png">
+![alt text](http://url/to/readme.png)
 
 ## Table of Content
 
