@@ -137,7 +137,7 @@ Footer this list icons.
 * Instagram
 * google
 2020 Copy right with email address (contact@mrswan.com)
-
+# Acknowledgements
 #### I received advice and encouragement from
 * Eventyret_mentor (via slack channels)
 * Tutor Support (CI online webchat)
