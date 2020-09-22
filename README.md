@@ -1,4 +1,4 @@
-<img src="images/screenshot.png">
+[My image](https://github.com/ogunmakindetobi/Swan/images/image.jpg)
 
 ## Table of Content
 
