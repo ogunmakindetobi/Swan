@@ -33,7 +33,7 @@
         * [Pages used for information](#pages-used-for-information)
         * [I received advice and encouragement from](#i-received-advice-and-encouragement-from)
 7. [Disclaimer](#disclaimer)
-* [Deployment](#deployment)
+8. * [Deployment](#deployment)
 
 # User Experience (UX)
 ## User stories. 
