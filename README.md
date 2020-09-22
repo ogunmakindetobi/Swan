@@ -1,4 +1,4 @@
-[My image](https://github.com/ogunmakindetobi/Swan/images/image.jpg)
+[My image](images/readme.png)
 
 ## Table of Content
 
