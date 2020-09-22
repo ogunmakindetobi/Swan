@@ -1,3 +1,5 @@
+<img src="documentation/deployment-screen-shots/readme.png">
+
 ## Table of Content
 
 1. [UX](#ux)
