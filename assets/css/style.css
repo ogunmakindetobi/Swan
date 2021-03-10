@@ -203,10 +203,12 @@ h1 {
 /* The "show" class is added to the filtered elements */
 .show {
   display: block;
+  text-align: center;
 }
 
 /* Style the buttons */
 .btn {
+  margin-bottom: 20%;
   border: none;
   outline: none;
   padding: 12px 16px;
